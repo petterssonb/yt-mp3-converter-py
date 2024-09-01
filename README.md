@@ -6,6 +6,14 @@ The YouTube Downloader GUI is a Python-based application that allows users to do
 
 Compatibility Note: This application is compatible with Windows, Linux, and macOS. Follow the instructions in the “How to run” section to properly set up and run the program.
 
+## Purpose
+
+Always wanted to use a "converter" app to add songs from yt to my spotify playlist. So made this for fun and to play around with customtkinter which is a more modern version of tkinter.
+Will add more functionality in the future so keep a heads up for updates :)
+Click the link to see the customtkinter repo for yourself:
+
+[CustomTkinter Repo](https://github.com/TomSchimansky/CustomTkinter)
+
 ## Features
 
  - Download YouTube Videos as MP3: Enter the URL of a YouTube video to download and convert it to an MP3 file.
