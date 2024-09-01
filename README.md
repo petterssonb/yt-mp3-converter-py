@@ -10,7 +10,8 @@ Compatibility Note: This application is compatible with Windows, Linux, and macO
 
 Always wanted to use a "converter" app to add songs from yt to my spotify playlist. So made this for fun and to play around with customtkinter which is a more modern version of tkinter.
 Will add more functionality in the future so keep a heads up for updates :)
-Click the link to see the customtkinter repo for yourself:
+
+Click the link below to see the customtkinter repo for yourself:
 
 [CustomTkinter Repo](https://github.com/TomSchimansky/CustomTkinter)
 
