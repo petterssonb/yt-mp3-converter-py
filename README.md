@@ -44,10 +44,10 @@ pip install -r requirements.txt
 
 4. 	Using the Application
 
-    1.	Enter the URL of the YouTube video you wish to download.
-	2.	Click the “Download” button.
-	3.	The application will download and convert the video to MP3 format.
-	4.	The downloaded MP3 file will be saved in your system’s Downloads folder.
+    - Enter the URL of the YouTube video you wish to download.
+	- Click the “Download” button.
+	- The application will download and convert the video to MP3 format.
+	- The downloaded MP3 file will be saved in your system’s Downloads folder.
 
 LICENSE
 
