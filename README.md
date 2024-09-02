@@ -16,17 +16,13 @@ Click the link below to see the customtkinter repo for yourself:
 [CustomTkinter Repo](https://github.com/TomSchimansky/CustomTkinter)
 
 
-## Images
-
- - UI:
+## User interface
 
 ![](images/image1.jpg)
 
-- While Downloading:
 ![](images/download.jpg)
 
-- Finished downloading:
-![](images/downloaded.jpg)****
+![](images/downloaded.jpg)
 
 
 ## Features
