@@ -115,6 +115,7 @@ dmypy.json
 
 # VS Code settings
 .vscode/
+.DS_Store
 
 # Pyre type checker
 .pyre/
