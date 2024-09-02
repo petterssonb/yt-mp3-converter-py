@@ -18,11 +18,11 @@ Click the link below to see the customtkinter repo for yourself:
 
 ## User interface
 
-![](images/image1.jpg)
+<img src="images/image1.jpg" alt="UI Screenshot 1" width="400"/>
 
-![](images/download.jpg)
+<img src="images/download.jpg" alt="Download Screenshot" width="400"/>
 
-![](images/downloaded.jpg)
+<img src="images/downloaded.jpg" alt="Downloaded Screenshot" width="400"/>
 
 
 ## Features
