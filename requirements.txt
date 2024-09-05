@@ -1,2 +1,5 @@
 customtkinter
 yt-dlp
+spotipy
+fuzzywuzzy
+python-Levenshtein

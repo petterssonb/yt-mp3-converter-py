@@ -33,32 +33,10 @@ Click the link below to see the customtkinter repo for yourself:
  - Modern UI: Utilizes customtkinter to offer a sleek and modern graphical user interface.
  - Cross-Platform: The application runs smoothly on Windows, macOS, and Linux.
 
+---
+## [How to run](/guides/run-app.md)
 
-## How to run
-
-1. Clone the repository to your local machine
-
-```bash
-git clone https://github.com/petterssonb/yt-mp3-converter-py.git
-```
-
-2. Navigate to the project directory.
-
-```bash
-cd yt-mp3-converter-py
-```
-
-3. Install the required Python packages
-```bash
-pip install -r requirements.txt
-```
-
-4. 	Using the Application
-
-    - Enter the URL of the YouTube video you wish to download.
-	- Click the “Download” button.
-	- The application will download and convert the video to MP3 format.
-	- The downloaded MP3 file will be saved in your system’s Downloads folder.
+## [Setup](/guides/setup-guide.md)
 
 LICENSE
 
