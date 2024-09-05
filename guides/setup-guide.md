@@ -4,13 +4,8 @@
 Before you run the YouTube to MP3 converter app, make sure you have installed the required dependencies and set up your Spotify API credentials.
 
 ## 1. Install the Dependencies
-Install the required Python dependencies using the requirements.txt file:
-```bash
-pip install -r requirements.txt
-```
 
 Make sure ffmpeg is also installed on your system. Follow the instructions for your operating system:
-
 
  - ***macOS:*** Install with Homebrew ([install homebrew](https://www.youtube.com/watch?v=IWJKRmFLn-g)):
 ```bash

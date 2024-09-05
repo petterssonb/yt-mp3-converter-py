@@ -17,7 +17,7 @@ cd yt-mp3-converter-py
 pip install -r requirements.txt
 ```
 
-4. Follow the setup guide to connect the ***Spotify API***
+4. Follow the setup guide to connect the ***Spotify API*** (Complete the whole setup guide before moving on to running the app)
 
 [Setup Guide](/guides/setup-guide.md)
 
