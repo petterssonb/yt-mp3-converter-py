@@ -31,4 +31,13 @@ python main.py
     - Enter the URL of the YouTube video you wish to download.
 	- Click the “Download” button.
 	- The application will download and convert the video to MP3 format.
-	- The downloaded MP3 file will be saved in your system’s Downloads folder.
+	- The downloaded MP3 file will be saved in your spotify local files folder.
+	- If the song matches a song on spotify you can add it to your playlist from the drop down menu
+	- Or if it isn't on spotify enter the local files folder in spotify and add the song to your playlist
+  
+  ***If you don't have local files enabled in spotify:***
+
+   - Click on ***settings*** in spotify
+   - And scroll down until you see this (***see image below***) and enable local files:
+
+    ![](/images/spotify.jpg)

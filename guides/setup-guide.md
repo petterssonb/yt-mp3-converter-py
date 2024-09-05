@@ -58,7 +58,6 @@ You can set environment variables by adding the following lines to your terminal
 ```bash
 export SPOTIPY_CLIENT_ID='your_spotify_client_id'
 export SPOTIPY_CLIENT_SECRET='your_spotify_client_secret'
-export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
 ```
 
 After adding these lines, run the following command to apply the changes.
