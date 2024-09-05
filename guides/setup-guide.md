@@ -27,7 +27,7 @@ To integrate with Spotify, you will need to create an app on the Spotify Develop
 
 ***Steps to Get Spotify Credentials***
 
- 1. ***Visit the*** [Spotify Developer Dashboard]() and log in with you Spotify account. If you don't have an account, create one first.
+ 1. ***Visit the*** [Spotify Developer Dashboard](https://developer.spotify.com/) and log in with you Spotify account. If you don't have an account, create one first.
 
  2. ***Create an App:***
     - Click on “Create an App”.

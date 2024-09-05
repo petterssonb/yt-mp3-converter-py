@@ -18,11 +18,14 @@ Click the link below to see the customtkinter repo for yourself:
 ## User interface
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/image1.jpg" alt="UI Screenshot 1" width="400"/>
-    <img src="images/download.jpg" alt="Download Screenshot" width="400"/>
+    <img src="images/connected.jpg" alt="UI Screenshot 1" width="400"/>
+    <img src="images/downloading.jpg" alt="Download Screenshot" width="400"/>
 </div>
 
-<img src="images/downloaded.jpg" alt="Downloaded Screenshot" width="400"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/added.jpg" alt="UI Screenshot 1" width="400"/>
+    <img src="images/localfiles.jpg" alt="Download Screenshot" width="400"/>
+</div>
 
 
 ## Features
