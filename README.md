@@ -53,6 +53,10 @@ For detailed instructions on running the app, please refer to the [Run Guide](/g
 
 For setting up the dependencies and configuring the Spotify API, follow the steps in the [Setup Guide](/guides/setup-guide.md).
 
+## Disclaimer
+
+This tool is intended for personal use only. Please ensure that you have the legal right to download any content and that you comply with YouTube's Terms of Service and all applicable copyright laws.
+
 ## LICENSE
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
