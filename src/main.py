@@ -12,6 +12,7 @@ from fuzzywuzzy import fuzz
 SPOTIPY_CLIENT_ID = os.getenv('SPOTIPY_CLIENT_ID')
 SPOTIPY_CLIENT_SECRET = os.getenv('SPOTIPY_CLIENT_SECRET')
 SPOTIPY_REDIRECT_URI = "http://localhost:8888/callback"
+THRESHOLD = 80
 
 local_files_dir = str(Path.home() / "Music/SpotifyLocalFiles")
 downloaded_song_title = None
@@ -49,11 +50,10 @@ def search_spotify_artist_and_song(song_title):
 
     for track in track_results['tracks']['items']:
         track_name = track['name']
-        track_artist = track['artists'][0]['name']
 
         similarity = fuzz.ratio(song_title, track_name)
 
-        if similarity >= 80:
+        if similarity >= THRESHOLD:
             spotify_track_id = track['id']
             spotify_song_found = True
             return track['id']
